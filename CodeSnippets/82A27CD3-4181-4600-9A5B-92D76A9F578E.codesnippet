@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string></string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>import SwiftUI
+
+struct &lt;#filename#&gt;: View {
+
+    var body: some View {
+        EmptyView()
+    }
+}
+
+struct &lt;#filename#&gt;_Previews: PreviewProvider {
+    static var previews: some View {
+        &lt;#filename#&gt;()
+    }
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>82A27CD3-4181-4600-9A5B-92D76A9F578E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Creates a SwiftUI File</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>SwiftUI File</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
